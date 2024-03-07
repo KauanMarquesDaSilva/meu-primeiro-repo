@@ -1,0 +1,28 @@
+
+.Div_01{
+    background-color: #794d47;
+    width: 500px;
+    height: 500px;
+}
+.Div_02{
+    background-color: #087681;
+    width: 50%;
+    height: 50%;
+}
+.Paragrafo{
+    color: rgb(0, 0, 0);
+    background-color: #46a84e;
+    font-size: 12px;
+    font-family: monospace;
+    font-style:italic;
+}
+.Div_03{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(192, 77, 194);
+}
+.Div_04{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(79, 52, 133);
+}
